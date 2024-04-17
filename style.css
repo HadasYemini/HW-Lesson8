@@ -1,0 +1,23 @@
+.firstName {
+    color: red;
+    text-decoration: underline;
+}
+
+.lastName {
+    font-size: 50px;
+    border: 1px solid black;
+    display: inline;
+}
+
+.header {
+    background-color: aquamarine;
+}
+
+table,
+td {
+    border: 1px solid black;
+}
+
+.price {
+    margin-top: 10px;
+}
